@@ -1,0 +1,2 @@
+D:\atruong1\Documents\Visual Studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\bin\Debug\MaintainStudentScores.exe.config
+C:\Users\Hoang\Documents\Visual Studio 2015\Projects\MaintainStudentScores\MaintainStudentScores\bin\Debug\MaintainStudentScores.exe.config
